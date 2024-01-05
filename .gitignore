@@ -1,0 +1,16 @@
+node_modules
+
+# environment file
+.env
+.cred
+
+# production
+/build
+/dist
+
+#temp
+/tmp
+
+#media files
+/public
+/.DS_Store
